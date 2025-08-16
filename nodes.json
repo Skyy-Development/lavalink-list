@@ -115,5 +115,14 @@
         "password": "https://disutils.com",
         "secure": true,
         "version": "v4"
+    },
+        {
+        "unique-id": "RRHosting",
+        "identifier": "RRHosting LavaLInk",
+        "host": "uk-01.rrhosting.eu",
+        "port": 1337,
+        "password": "RRHosting",
+        "secure": false,
+        "version": "v4"
     }
 ]
